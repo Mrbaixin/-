@@ -1,7 +1,1 @@
-#import java.iostream;
-public hello_word{
-public static void main()
-{
-  System.out.println("hello")
-}
-}
+This is a system which is armed to help students take post-graduate exams;
